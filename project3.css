@@ -1,0 +1,72 @@
+.box{
+    height: 80px;
+    background-color: blueviolet;
+    color: white;
+}
+.box i{
+    font-size: 50px;
+    margin-left: 20px;
+    margin-top: 10px;
+   
+}
+.box a{
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    margin:5px;
+    margin-left: 15px;
+}
+a:hover{
+    background-color: white;
+    color: black;
+}
+.box input{
+    margin-left: 100px;
+    height: 35px;
+    width: 200px;
+    border-radius: 9px;
+}
+
+
+.container img{
+    height: 80px;
+    width: 100px;
+}
+b{
+    font-size: 29px;
+}
+p{
+    font-size: 20px;
+}
+.item{
+    display: flex;
+ margin-left: 380px;
+}
+.box1{
+    height: 50px;
+    width: 350px;
+    border: 2px solid black;
+    border-radius: 9px;
+    background-color: rgb(233, 225, 225);
+    font-size: 23px;
+}
+
+
+button{
+    height: 50px;
+    width: 250px;
+    border: 2px solid black;
+    border-radius: 9px;
+    margin-left: 20px;
+    background-color: blueviolet;
+}
+.container a{
+    font-size: 24px;
+    color: black;
+    margin: 15px;
+}
+.container a:hover{
+    background-color: white;
+    color: blue;
+    text-decoration: none;
+}
